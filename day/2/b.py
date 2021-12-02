@@ -19,4 +19,4 @@ for move in get_input():
             aim += int(x[1])
 result = d * h
 
-print('Depth: {:d}, H: {:d}, Result: {:d}'.format(d,h,result))
+print(f'Depth: {d}, H: {h}, Result: {result}')
